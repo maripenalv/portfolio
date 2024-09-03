@@ -1,8 +1,17 @@
-# Projeto Portfólio
+# Projeto Portfólio 🗃️
 
-Esse é meu portfólio, um projeto pessoal desenvolvido em HTML e CSS. 
-Ele foi desenvolvido com o intuito de criar um espaço centralizado onde posso apresentar a mim e as minhas habilidades.
-Além de conter uma sumarização acerca de quem sou e possuir links diretos para meu currículo e redes sociais, ele também possui navegação intuitiva e responsividade.
+## Apresentação 
+Esse é meu portfólio. Esse projeto foi desenvolvido com o intuito de criar um espaço centralizado onde posso apresentar a mim, as minhas habilidades e as formas de se estabelecer contato comigo.
 
-Status: incompleto; ainda farei ajustes e adições ao projeto em questão.
+## Funcionalidades 
+- Sumarização acerca de quem sou e foto de perfil.
+- Link direto para meu currículo.
+- Links das minhas redes para melhor, e mais fácil, comunicação.
+- Navegação intuitiva e responsividade.
 
+## Tecnologias utilizadas 
+- HTML
+- CSS
+
+## Status do projeto 
+- Incompleto, algumas adições e mudanças ainda serão feitas.
