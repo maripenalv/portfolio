@@ -5,7 +5,7 @@ Esse é meu portfólio. Esse projeto foi desenvolvido com o intuito de criar um 
 
 ![Preview do site](./assets/preview.png) 
 
-[Acesse o site por aqui](https://maripenalv.github.io/portfolio/) 
+[Acesse o site aqui](https://maripenalv.github.io/portfolio/) 
 
 ## Funcionalidades 
 - Sumarização acerca de quem sou e foto de perfil.
