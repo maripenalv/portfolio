@@ -1,5 +1,6 @@
 # Projeto Portfólio 👾
 
+## Projeto em fase de atualização ⚠️
 ## Apresentação 
 Esse é meu portfólio. Esse projeto foi desenvolvido com o intuito de criar um espaço centralizado onde posso apresentar a mim, as minhas habilidades e as formas de se estabelecer contato comigo.
 
